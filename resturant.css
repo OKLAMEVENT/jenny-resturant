@@ -1,0 +1,130 @@
+.d1 {
+    width: 1024px;
+    height: 118px;
+    /* background-color: blue; */
+}
+.d2 {
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.295);
+}
+.d3 {
+    width: 1024px;
+    height: 400px;
+    /* background-color: green; */
+}
+.d4 {
+    width: 1024px;
+    height: 500px;
+    background-color: orange;
+}
+.d5 {
+    width: 1024px;
+    height: 40px;
+    background-color: black;
+}
+body {
+    background: url(background-adare-restaurant.jpg);
+}
+.d2 a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin: 0px 8px;
+}
+.dh1 {
+    font-size: 100px;
+    margin-top: 130px;
+    color: white;
+}
+.d1p {
+    font-size: 23px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.an {
+    color: white;
+    font-size: 25px;
+}
+.d5 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.235);
+    margin-top: 90px;
+    padding-top: 30px;
+    font-size: 10px;
+}
+.h1h {
+    color: rgb(118, 53, 53);
+    font-style: italic;
+    font-size: 50px;
+    margin-left: 300px;
+    background-color: aqua;
+    
+}
+.one {
+    background-image: none;
+    background-color: brown;
+}
+.home {
+    box-sizing: content-box;
+    width: 1024px;
+    height: 150px;
+    margin-left: 30px;
+    margin-right: 100px;
+    padding-right: 300px;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: rgb(91, 152, 152);
+    clear: both;
+}
+.mrd1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 0.758);
+    color: red;
+}
+.im1 {
+    width: 200px;
+    height: 200px;
+}
+.mrd2 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin-left: 200px;
+}
+.mrd3 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin-left: 400px;
+}
+.check {
+    margin-left: 400px;
+    color: white;
+}
+.in {
+    margin-left: 450px;
+}
+.im2 {
+    width: 200px;
+    height: 200px;
+}
+
+.dh11 {
+    width: 1024px;
+    height: 50px;
+    background-color: antiquewhite;
+    color: black;
+    padding-left: 400px;
+}
+.orp {
+    color: white;
+    font-size: 50px;
+}
+.ac1 {
+    color: white;
+    font-size: 5opx;
+}
+

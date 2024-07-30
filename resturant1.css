@@ -1,0 +1,66 @@
+.mdiv {
+    background-color: bisque;
+    display: flex;
+}
+.isth {position: relative;
+    top: 50px;
+    left: 300px;
+    color: black;
+    font-size: 50px;
+}
+
+.md1, .md2, .md3, .md4, .md5, .im4a {
+    width: 200px;
+    height: 200px;
+    margin: 15px 15px;
+    border-radius: 50px;
+}
+.im1, .im2, .im3 {
+    width: 200px;
+    height: 200px;
+}
+.mdiv2 {
+    background-color: bisque;
+    display: flex;
+}
+.im4, .im5 {
+    width: 200px;
+    height: 200px;
+}
+.im6 {
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+}
+p {
+    color: white;
+    position: relative;
+    bottom: 90px;
+    left: 170px;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 210px;
+    left: 30px;
+}
+a {
+    position: relative;
+    bottom: 120px;
+    color: white;
+    left: 35px;
+}
+.im1, .im2, .im3 {
+    border-radius: 50px;
+}
+.mdiv2 {
+    margin-top: 0px;
+}
+.meal {
+    width: 200px;
+    height: 200px;
+    margin: 15px 15px;
+    border-radius: 50px;
+}
